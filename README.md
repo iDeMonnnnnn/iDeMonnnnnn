@@ -5,8 +5,10 @@
 - 📙 I’m currently focusing on Java & Kotlin & Android
 - 📕 I’m currently learning on Flutter
 - 🔥 Creator of applications and frameworks
-- ✉ Email:757454343@qq.com
-- 📚 Blog:<https://demon.blog.csdn.net/>
+- 🏚 City: Guangzhou, China
+- ♋ Constellation: Cancer
+- ✉ Email: 757454343@qq.com
+- 📚 Blog: <https://demon.blog.csdn.net/>
 
 <!--
 **iDeMonnnnnn/iDeMonnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
