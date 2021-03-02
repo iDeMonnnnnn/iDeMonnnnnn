@@ -2,7 +2,7 @@
 
 ### Hello，World 👋
 
-- 📙 I’m currently focusing on Java & Kotlin & Android
+- 📙 I’m currently focusing on Java/Kotlin/Android
 - 📕 I’m currently learning on Flutter
 - 🔥 Creator of applications and frameworks
 - 🏚 City: Guangzhou, China
