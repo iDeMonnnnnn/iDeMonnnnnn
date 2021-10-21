@@ -7,7 +7,7 @@
 - 🔥 Creator of applications and frameworks
 - 🏚 City: Guangzhou, China
 - ♋ Constellation: Cancer
-- ✉ Email: 757454343@qq.com
+- ✉ Email: idemon_liu@qq.com
 - 📚 Blog: <https://demon.blog.csdn.net/>
 
 
